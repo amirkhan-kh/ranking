@@ -1,0 +1,18 @@
+body{
+    border-color: darkblue;
+}
+table{
+    margin: 50px auto;
+    width: 650px;
+    height: 250px;
+}
+thead{
+    background-color: greenyellow;
+}
+th, td{
+    padding: 10px 20px;
+}
+
+tr:hover{
+    background-color: green;
+}
